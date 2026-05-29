@@ -1,4 +1,4 @@
-package decorator;
+package structural.decorator;
 
 abstract class CoffeeDecorator implements Coffee{
     
